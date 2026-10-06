@@ -12,3 +12,6 @@ data/input_din_list.csv
 data/dictionary_who_atc.csv
 log/
 output/
+# pixi environments
+.pixi/*
+!.pixi/config.toml

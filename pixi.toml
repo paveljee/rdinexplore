@@ -1,0 +1,10 @@
+[workspace]
+channels = ["conda-forge"]
+name = "rdinexplore"
+platforms = ["osx-arm64","linux-aarch64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+r-base = "==4.6.1"
